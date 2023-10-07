@@ -16,7 +16,7 @@
 // }
 
 
-// ========
+// ======== 
 // void PrintArray(int[,] image)
 // {
 // for (int rows = 0; rows < image.GetLength(0); rows++)
@@ -47,7 +47,7 @@
 // PrintArray(imageix);
 
 
-// ======== Hаскрасить область
+// ======== Раскрасить область
 
 // int[,] pic = new int[,]
 // {
